@@ -1,0 +1,6 @@
+[submodule "QtIosCMake"]
+	path = QtIosCMake
+	url = https://github.com/OlivierLDff/QtIosCMake
+[submodule "IosCMakeToolchain"]
+	path = IosCMakeToolchain
+	url = https://github.com/OlivierLDff/IosCMakeToolchain
